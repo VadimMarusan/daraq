@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/dancingscript/v23/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BAyoHTQ.ttf) format('truetype');
+}
